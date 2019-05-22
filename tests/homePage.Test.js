@@ -11,5 +11,5 @@ test('Task', async t => {
     await landingPage.loginFlow()
     await homePage.addTaskFlow()
     //await t.expect(homePage.test.exists).ok()
-    //await t.wait(1000),
+    await t.wait(1000)
 })
