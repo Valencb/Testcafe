@@ -1,0 +1,15 @@
+{
+  "name": "WizelineQA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Blanca Valencia <valenciablancalun@gmail.com> (https://twitter.com/BLANKMIZAKY)",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.1.4"
+  }
+}
